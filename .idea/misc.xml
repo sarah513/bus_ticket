@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/legion/Desktop/New folder/MyRide/app/src/main/res/layout/activity_print_info.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/legion/Desktop/New folder/MyRide/app/src/main/res/layout/activity_seat.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/legion/Desktop/New folder/MyRide/app/src/main/res/layout/activity_select.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
